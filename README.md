@@ -33,7 +33,7 @@ Beyond coding, I have solid foundational knowledge in computer hardware and infr
 ### GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiasflor&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" alt="Matías's GitHub Stats" height="180M" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matiasflor&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" alt="Matías's GitHub Stats" height="180" />
 </p>
 
 ---
